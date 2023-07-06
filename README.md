@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brandon Wu
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on Data Science research projects
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning full stack development for hackathons
+- 💞️ I’m looking to collaborate on ML web application development projects
 - 📫 How to reach me @wu302966@gmail.com
 
 <!---
